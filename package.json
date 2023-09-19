@@ -1,0 +1,28 @@
+{
+  "name": "@nooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunsu322/nomad-react-hook10.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Sarah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eunsu322/nomad-react-hook10/issues"
+  },
+  "homepage": "https://github.com/eunsu322/nomad-react-hook10#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
